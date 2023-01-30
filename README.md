@@ -10,12 +10,13 @@ Hello! I'm a computer science student and freelance web developer. I enjoy front
 
 # Contact
 
-Feel free to reach out to me at:
+**Feel free to reach out to me at:**
+# 
 <div>
   <a href = "mailto:luis.santos.job@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiscsantos92" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-. I'm always open to new opportunities and conversations about tech.
+I'm always open to new opportunities and conversations about tech.
 
 Thank you for visiting my GitHub profile!
