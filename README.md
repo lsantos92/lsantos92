@@ -2,13 +2,13 @@
 
 Hello! I'm a computer science student and freelance web developer. I enjoy frontend development and have experience with several programming languages and technologies.
 
-# Skills
+## Skills
 
 - HTML, CSS, JavaScript
 - C, Java, Python, SQL
 - Frontend Development
 
-# Contact
+## Contact
 
 **Feel free to reach out to me at:**
 
