@@ -1,12 +1,11 @@
 #  GitHub Profile
 
-Hello! I'm a computer science student and freelance web developer. I enjoy frontend development and have experience with several programming languages and technologies.
+Hello! I'm Luís Santos, a computer science student and freelance web developer. I enjoy frontend development and have experience with several programming languages and technologies.
 
 ## Skills
 
 - HTML, CSS, JavaScript
 - C, Java, Python, SQL
-- Frontend Development
 
 ## Contact
 
