@@ -1,20 +1,21 @@
 # GitHub Profile
 👋 Hello! I'm Luís Santos
-I am an SAP ABAP Consultant with experience in developing robust and efficient solutions for SAP environments. I have a strong programming background and have worked with various technologies beyond ABAP, including web development and databases.
+I am a SAP ABAP consultant with experience developing robust and efficient solutions for SAP environments. I have a strong programming background and have worked with various technologies beyond ABAP, including web development and databases.
 
 ## 💼 Professional Experience
-🚀 SAP ABAP Consultant at INETUM-SDF
+**🚀 SAP ABAP Consultant**
 Development of reports, interfaces, forms, and enhancements in SAP, including integration via IDocs, BAPIs, and Web Services.
 
-## 💻 Web Developer & Freelancer
+**💻 Web Developer & Freelancer**
 Experience in frontend and backend development, creating responsive and optimized applications.
 
 ## 🛠️ Technical Skills
 SAP ABAP: Reports (ALV), IDocs, BAPIs, User Exits, Enhancements, Forms (SmartForms, Adobe Forms), CDS Views, OData Services.
 Programming Languages: HTML, CSS, JavaScript, SQL, C, Java, Python.
 Technologies & Tools: Fiori/UI5, REST APIs, Git, Microsoft Teams, SOAP, RFC.
-Methodologies: Agile (Scrum).
-##📫 Contact
+Methodologies: Agile.
+
+## 📫 Contact
 **Feel free to reach out to me at:**
 
 <div>
