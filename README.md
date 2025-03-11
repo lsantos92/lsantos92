@@ -3,7 +3,7 @@
 I am a SAP ABAP consultant with experience developing robust and efficient solutions for SAP environments. I have a strong programming background and have worked with various technologies beyond ABAP, including web development and databases.
 
 ## 💼 Professional Experience
-**🚀 SAP ABAP Consultant:**
+**🚀 SAP ABAP Consultant**
 <br>Development of reports, interfaces, forms, and enhancements in SAP, including integration via IDocs, BAPIs, and Web Services.
 
 **💻 Web Developer & Freelancer**
