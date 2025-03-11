@@ -10,10 +10,10 @@ Development of reports, interfaces, forms, and enhancements in SAP, including in
 Experience in frontend and backend development, creating responsive and optimized applications.
 
 ## 🛠️ Technical Skills
-SAP ABAP: Reports (ALV), IDocs, BAPIs, User Exits, Enhancements, Forms (SmartForms, Adobe Forms), CDS Views, OData Services.
-Programming Languages: HTML, CSS, JavaScript, SQL, C, Java, Python.
-Technologies & Tools: Fiori/UI5, REST APIs, Git, Microsoft Teams, SOAP, RFC.
-Methodologies: Agile.
+- SAP ABAP: Reports (ALV), IDocs, BAPIs, User Exits, Enhancements, Forms (SmartForms, Adobe Forms), CDS Views, OData Services.
+- Programming Languages: HTML, CSS, JavaScript, SQL, C, Java, Python.
+- Technologies & Tools: Fiori/UI5, REST APIs, Git, Microsoft Teams, SOAP, RFC.
+- Methodologies: Agile.
 
 ## 📫 Contact
 **Feel free to reach out to me at:**
