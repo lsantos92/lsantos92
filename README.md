@@ -20,8 +20,7 @@ I am a SAP ABAP consultant with experience developing robust and efficient solut
 
 <div>
   <a href="https://www.linkedin.com/in/luiscsantos92" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luis.santos.job@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/luis_santos_22" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href = "mailto:luis.santos.manteigas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 I'm always open to new opportunities and conversations about tech.
