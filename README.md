@@ -10,9 +10,9 @@ I am a SAP ABAP consultant with experience developing robust and efficient solut
 <br>Experience in frontend and backend development, creating responsive and optimized applications.
 
 ## 🛠️ Technical Skills
-- SAP ABAP: Reports (ALV), IDocs, BAPIs, User Exits, Enhancements, Forms (SmartForms, Adobe Forms), CDS Views, OData Services.
+- SAP ABAP: Reports (ALV), IDocs, BAPIs, User Exits, Enhancements, Forms (SmartForms, Adobe Forms), CDS Views, OData Services, ABAP RAP.
 - Programming Languages: HTML, CSS, JavaScript, SQL, C, Java, Python.
-- Technologies & Tools: Fiori/UI5, REST APIs, Git, Microsoft Teams, SOAP, RFC.
+- Technologies & Tools: Fiori/UI5, REST APIs, Git, Microsoft Teams, SOAP, RFC, RAP.
 - Methodologies: Agile.
 
 ## 📫 Contact
