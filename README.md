@@ -4,7 +4,7 @@ I am a SAP ABAP consultant with experience developing robust and efficient solut
 
 ## 💼 Professional Experience
 **🚀 SAP ABAP Consultant**
-<br>Development of reports, interfaces, forms, and enhancements in SAP, including integration via IDocs, BAPIs, and Web Services.
+<br>RECIF, ABAP OO, ABAP RAP, OData, Adobe Forms, S4Hana, SAP Private Cloud and SAP Public Cloud.
 
 **💻 Web Developer & Freelancer**
 <br>Experience in frontend and backend development, creating responsive and optimized applications.
